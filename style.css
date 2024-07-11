@@ -1,0 +1,32 @@
+.parent {
+  width: 700px;
+  background-color: antiquewhite;
+  font-family: Courier, monospace;
+  height: 100%;
+  margin: 20px;
+  padding: 20px;
+}
+input[type="submit"] {
+  width: 70px;
+  height: auto;
+  margin: 25px;
+  background-color: hsla(9, 100%, 64%, 0.5);
+  border-radius: 15px;
+  border: 3px solid gray;
+}
+input[type="text"] {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+h2,
+p {
+  text-align: center;
+  text-shadow: ;
+}
+input[type="submit"]:hover {
+  background-color: blueviolet;
+}
+.btn {
+  text-align: center;
+}
